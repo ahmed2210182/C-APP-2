@@ -1,0 +1,26 @@
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.DashboardForm.resources
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.AddStudentForm.resources
+C:\Users\Yousif\Desktop\New folder\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.ViewStudentsForm.resources
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.AddStudentForm.resources
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.DashboardForm.resources
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.ViewStudentsForm.resources
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\THE PIRATE\Documents\C#\Ahmed Noori's Assignment 2\App2\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
